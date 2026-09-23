@@ -1,0 +1,6 @@
+{
+  "name": "TERANGA ENGLISH",
+  "description": "Online educational bookstore selling English-language manuals for Senegalese school students from 6ème to Terminale by Mister Diene.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
